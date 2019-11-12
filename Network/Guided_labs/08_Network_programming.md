@@ -81,7 +81,11 @@ Custom HTTP server started on port: 8800
 localhost - - [18/Apr/2013 13:39:33] "GET / HTTP/1.1" 200 -
 localhost - - [18/Apr/2013 13:39:33] "GET /favicon.ico HTTP/1.1" 200 
 ```  
+## What's Happening:
 
+In this script, we created the CustomHTTPServer class inherited from the HTTPServer class. In the constructor method, the CustomHTTPServer class sets up the server address and port received as a user input. In the constructor, our web server's RequestHandler class has been set up. Every time a client is connected, the server handles the request according to this class.
+
+The RequestHandler defines the action to handle the client's GET request. It sends an HTTP header (code 200) with a success message Hello from server! using the write() method.
 
 
 
