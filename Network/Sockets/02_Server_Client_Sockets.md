@@ -10,3 +10,8 @@ The socket must be open before connecting to the address.
 the socket.bind(address) and socket.listen(q) methods must be used. The socket.accept() method returns two values:
 client_socket and address, where client_socket is a new socket object used to send and receive data over the connection, 
 and address is the address of the client. You will see examples later.
+
+# Client socket methods
+The only method dedicated to the client is the following:
+
+socket.connect(address): This method connects the client to the server. The address argument is the address of the server.
