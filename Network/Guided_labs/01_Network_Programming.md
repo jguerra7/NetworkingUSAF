@@ -42,12 +42,14 @@ Listing 1.1 shows how to get our machine info, as follows:
         print_machine_info()
 ```  
 In order to run this recipe, you can use the provided source file from the command line as follows:
+
 ```python
 $python 1_1_local_machine_info.py  
 ```
 On my machine, the following output is shown:
+
 ```python
-Host name: 90cosTx
+Host name: 90cos
 IP address: 127.0.1.1
 ```
 The hostname is what you assigned to your computer when you configured your operating system. This output will be different on your machine depending on the system's host configuration. Here hostname indicates where the Python interpreter is currently executing.
