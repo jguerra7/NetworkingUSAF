@@ -23,8 +23,7 @@ We call our function from the usual Python __main__ block. During runtime, Pytho
 Listing 1.1 shows how to get our machine info, as follows:
 ```python
 #!/usr/bin/env python
-# Python Network Programming Cookbook,
-   Second Edition -- Chapter - 1
+
 # This program is optimized for Python 2.7.12
    and Python 3.5.2.
 # It may run on any other version with/without 
