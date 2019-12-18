@@ -8,6 +8,7 @@ Here are two files for this assignment.
 One is a sample file where we give you the sum for your testing and the other is the actual data you need to process for the assignment.
   
   Sample data: http://py4e-data.dr-chuck.net/comments_42.json (Sum=2553)
+  
   Actual data: http://py4e-data.dr-chuck.net/comments_57128.json (Sum ends with 10)
   
 You do not need to save these files to your folder since your program will read the data directly from the URL. 
@@ -19,6 +20,7 @@ ________________________________________________________________________________
 We provide two files for this assignment. One is a sample file where we give you the sum for your testing and the other is the actual data you need to process for the assignment.
 
     Sample data: http://py4e-data.dr-chuck.net/comments_42.html (Sum=2553)
+    
     Actual data: http://py4e-data.dr-chuck.net/comments_57125.html (Sum ends with 54)
 
 You do not need to save these files to your folder since your program will read the data directly from the URL. 
