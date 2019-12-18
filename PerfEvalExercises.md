@@ -1,6 +1,6 @@
 ## Performance Eval style questions (Choose only two of the following) 
 
-1.  write a Python program somewhat similar to http://www.py4e.com/code3/json2.py. 
+* 1. Write a Python program somewhat similar to http://www.py4e.com/code3/json2.py. 
   The program will prompt for a URL, read the JSON data from that URL using urllib and 
   then parse and extract the comment counts from the JSON data, 
   compute the sum of the numbers in the file and enter the sum below:
@@ -15,7 +15,7 @@
 
 ________________________________________________________________________________________________________________________
 
-2. Scraping Numbers from HTML using BeautifulSoup In this assignment you will write a Python program similar to                                http://www.py4e.com/code3/urllink2.py. The program will use urllib to read the HTML from the data files below, and parse the data,          extracting numbers and compute the sum of the numbers in the file.
+* 2. Scraping Numbers from HTML using BeautifulSoup In this assignment you will write a Python program similar to                                http://www.py4e.com/code3/urllink2.py. The program will use urllib to read the HTML from the data files below, and parse the data,          extracting numbers and compute the sum of the numbers in the file.
 
   We provide two files for this assignment. One is a sample file where we give you the sum for your testing and the other is the actual     data you need to process for the assignment.
 
@@ -27,8 +27,8 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________
 
-3. Write a client server python program to send input from client to server, replace all the vowels with '#' and return the string to        client and print it.
+* 3. Write a client server python program to send input from client to server, replace all the vowels with '#' and return the string to        client and print it.
 _________________________________________________________________________________________________________________________
-4. Create this Client-Server interaction (see image below)
+* 4. Create this Client-Server interaction (see image below)
 ![image](https://user-images.githubusercontent.com/47218880/71123669-c6b20800-21a8-11ea-901c-2c58f640bede.png)
 
